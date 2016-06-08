@@ -20,6 +20,9 @@
   ],
   "author": "James Cryer",
   "license": "MIT",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
   "bugs": {
     "url": "https://github.com/gerdy/PhantomFlow/issues"
   },
