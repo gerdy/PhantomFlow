@@ -62,7 +62,7 @@
                                       "isStep": true,
                                       "children": [],
                                       "isActive": true,
-                                      "screenshot": "/flows/coffeemachine.test.js/Get a coffee/Wants Latte/There is no milk/Wants Espresso instead/Wants single shot/Request single shot.png"
+                                      "screenshot": "/flows/coffeemachine.test.js/Getacoffee/WantsLatte/Thereisnomilk/WantsEspressoinstead/Wantssingleshot/Requestsingleshot.png"
                                     }
                                   ]
                                 },
@@ -77,19 +77,19 @@
                                       "isStep": true,
                                       "children": [],
                                       "isActive": true,
-                                      "screenshot": "/flows/coffeemachine.test.js/Get a coffee/Wants Latte/There is no milk/Wants Espresso instead/Wants double shot/Request double shot.png"
+                                      "screenshot": "/flows/coffeemachine.test.js/Getacoffee/WantsLatte/Thereisnomilk/WantsEspressoinstead/Wantsdoubleshot/Requestdoubleshot.png"
                                     }
                                   ]
                                 }
                               ],
                               "isActive": true,
-                              "screenshot": "/flows/coffeemachine.test.js/Get a coffee/Wants Latte/There is no milk/Wants Espresso instead/Request Espresso.png"
+                              "screenshot": "/flows/coffeemachine.test.js/Getacoffee/WantsLatte/Thereisnomilk/WantsEspressoinstead/RequestEspresso.png"
                             }
                           ]
                         }
                       ],
                       "isActive": true,
-                      "screenshot": "/flows/coffeemachine.test.js/Get a coffee/Wants Latte/There is no milk/Request Latte.png"
+                      "screenshot": "/flows/coffeemachine.test.js/Getacoffee/WantsLatte/Thereisnomilk/RequestLatte.png"
                     }
                   ]
                 },
@@ -104,7 +104,7 @@
                       "isStep": true,
                       "children": [],
                       "isActive": true,
-                      "screenshot": "/flows/coffeemachine.test.js/Get a coffee/Wants Latte/There is milk/Request Latte.png"
+                      "screenshot": "/flows/coffeemachine.test.js/Getacoffee/WantsLatte/Thereismilk/RequestLatte.png"
                     }
                   ]
                 }
@@ -147,7 +147,7 @@
                                       "isStep": true,
                                       "children": [],
                                       "isActive": true,
-                                      "screenshot": "/flows/coffeemachine.test.js/Get a coffee/Wants Cappuccino/There is no milk/Request Espresso instead/Wants single shot/Request single shot.png"
+                                      "screenshot": "/flows/coffeemachine.test.js/Getacoffee/WantsCappuccino/Thereisnomilk/RequestEspressoinstead/Wantssingleshot/Requestsingleshot.png"
                                     }
                                   ]
                                 },
@@ -162,19 +162,19 @@
                                       "isStep": true,
                                       "children": [],
                                       "isActive": true,
-                                      "screenshot": "/flows/coffeemachine.test.js/Get a coffee/Wants Cappuccino/There is no milk/Request Espresso instead/Wants double shot/Request double shot.png"
+                                      "screenshot": "/flows/coffeemachine.test.js/Getacoffee/WantsCappuccino/Thereisnomilk/RequestEspressoinstead/Wantsdoubleshot/Requestdoubleshot.png"
                                     }
                                   ]
                                 }
                               ],
                               "isActive": true,
-                              "screenshot": "/flows/coffeemachine.test.js/Get a coffee/Wants Cappuccino/There is no milk/Request Espresso instead/Request Espresso.png"
+                              "screenshot": "/flows/coffeemachine.test.js/Getacoffee/WantsCappuccino/Thereisnomilk/RequestEspressoinstead/RequestEspresso.png"
                             }
                           ]
                         }
                       ],
                       "isActive": true,
-                      "screenshot": "/flows/coffeemachine.test.js/Get a coffee/Wants Cappuccino/There is no milk/Request Cappuccino.png"
+                      "screenshot": "/flows/coffeemachine.test.js/Getacoffee/WantsCappuccino/Thereisnomilk/RequestCappuccino.png"
                     }
                   ]
                 },
@@ -189,7 +189,7 @@
                       "isStep": true,
                       "children": [],
                       "isActive": true,
-                      "screenshot": "/flows/coffeemachine.test.js/Get a coffee/Wants Cappuccino/There is milk/Request Cappuccino.png"
+                      "screenshot": "/flows/coffeemachine.test.js/Getacoffee/WantsCappuccino/Thereismilk/RequestCappuccino.png"
                     }
                   ]
                 }
@@ -216,7 +216,7 @@
                           "isStep": true,
                           "children": [],
                           "isActive": true,
-                          "screenshot": "/flows/coffeemachine.test.js/Get a coffee/Wants Espresso/Wants single shot/Request single shot.png"
+                          "screenshot": "/flows/coffeemachine.test.js/Getacoffee/WantsEspresso/Wantssingleshot/Requestsingleshot.png"
                         }
                       ]
                     },
@@ -231,19 +231,19 @@
                           "isStep": true,
                           "children": [],
                           "isActive": true,
-                          "screenshot": "/flows/coffeemachine.test.js/Get a coffee/Wants Espresso/Wants double shot/Request double shot.png"
+                          "screenshot": "/flows/coffeemachine.test.js/Getacoffee/WantsEspresso/Wantsdoubleshot/Requestdoubleshot.png"
                         }
                       ]
                     }
                   ],
                   "isActive": true,
-                  "screenshot": "/flows/coffeemachine.test.js/Get a coffee/Wants Espresso/Request Espresso.png"
+                  "screenshot": "/flows/coffeemachine.test.js/Getacoffee/WantsEspresso/RequestEspresso.png"
                 }
               ]
             }
           ],
           "isActive": true,
-          "screenshot": "/flows/coffeemachine.test.js/Get a coffee/Go to the coffee machine.png"
+          "screenshot": "/flows/coffeemachine.test.js/Getacoffee/Gotothecoffeemachine.png"
         }
       ]
     }

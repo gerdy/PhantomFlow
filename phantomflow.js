@@ -254,6 +254,10 @@ module.exports.init = function ( options ) {
 				var file = files.pop();
 
 				log('Picking up job: '.green + file);
+				log(changeSlashes( casperPath ));
+				log(args.slice( 0 ).concat( [ '--flowtests=' + changeSlashes( file ) ] ), {
+						stdio: false
+					});
 				var child = cp.spawn(
 					changeSlashes( casperPath ),
 					args.slice( 0 ).concat( [ '--flowtests=' + changeSlashes( file ) ] ), {
