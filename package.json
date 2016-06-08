@@ -1,11 +1,11 @@
 {
-  "name": "phantomflow",
-  "version": "1.0.1",
-  "description": "UI testing with PhantomCSS and Decision Trees",
+  "name": "tch-flow",
+  "version": "0.0.1",
+  "description": "测试流程",
   "main": "phantomflow.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Huddle/PhantomFlow.git"
+    "url": "https://github.com/gerdy/PhantomFlow.git"
   },
   "keywords": [
     "decision",
@@ -21,9 +21,9 @@
   "author": "James Cryer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Huddle/PhantomFlow/issues"
+    "url": "https://github.com/gerdy/PhantomFlow/issues"
   },
-  "homepage": "https://github.com/Huddle/PhantomFlow",
+  "homepage": "https://github.com/gerdy/PhantomFlow",
   "dependencies": {
     "async": "^1.5.2",
     "blessed": "^0.1.81",
